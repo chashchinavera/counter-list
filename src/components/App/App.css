@@ -1,0 +1,16 @@
+.app {
+  max-width: 1440px;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 10px 16px;
+  background-color: #FFFFFF;
+}
+
+.app__title {
+  margin: 6px 0 15px;
+  padding: 0;
+  color: #1F2939;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 500;
+}
